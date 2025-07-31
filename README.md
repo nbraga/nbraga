@@ -60,6 +60,4 @@
 Muito obrigado por visitar meu perfil! 😊  
 Se quiser colaborar ou conversar sobre projetos, é só chamar!
 
-![Snake Animation](https://github.com/nbraga)
-
-<!-- Estou usando GitHub profile README com estatísticas dinâmicas, widgets e badges para dar vida ao meu perfil e deixá-lo interessante para visitantes e recrutadores. -->
+![Snake Animation](https://github.com/nbraga/nbraga)
