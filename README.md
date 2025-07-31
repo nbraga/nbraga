@@ -59,5 +59,3 @@
 
 Muito obrigado por visitar meu perfil! 😊  
 Se quiser colaborar ou conversar sobre projetos, é só chamar!
-
-![Snake Animation](https://github.com/nbraga/nbraga)
