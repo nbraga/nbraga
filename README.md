@@ -57,5 +57,7 @@
 
 ---
 
+<img src="https://raw.githubusercontent.com/gitUser/gitrepo/output/snake.svg" alt="Snake animation" />
+
 Muito obrigado por visitar meu perfil! 😊  
 Se quiser colaborar ou conversar sobre projetos, é só chamar!
