@@ -58,7 +58,7 @@
 ---
 
 <div style="align:center">
-  <img src="https://raw.githubusercontent.com/nbraga/gitrepo/output/snake.svg" alt="Snake animation" />
+  <img src="https://raw.githubusercontent.com/nbraga/nbraga/output/snake.svg" alt="Snake animation" />
 </div>
 
 Muito obrigado por visitar meu perfil! 😊  
